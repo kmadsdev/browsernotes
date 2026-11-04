@@ -1,4 +1,7 @@
 # BrowserNotes
+
+> **Moved.** BrowserNotes is now [notes](https://kmads.dev/notes/) ([source](https://github.com/kmadsdev/notes)). <https://kmads.dev/browsernotes/> redirects there. The `data:` URLs below still work offline.
+
 BrowserNotes is an extremely lightweight notepad app that runs offline directly in your browser.
 
 <img src="logo.svg" alt="{insert logo here}" style="width:250px; height:250px;"> <-- our ballistic logo, I made it all by myself
